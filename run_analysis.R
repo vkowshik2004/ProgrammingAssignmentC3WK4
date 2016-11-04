@@ -3,6 +3,7 @@ rm(list = ls())
 setwd("C:\\Users\\vadisheshan\\Desktop\\Data Scientist\\Course 3\\ProgrammingAssignmentC3WK4\\")
 getwd()
 
+
 ##Set the URL to obtain the zip folder
 url<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
